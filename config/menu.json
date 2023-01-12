@@ -16,12 +16,10 @@
       "name": "Configuration"
     },
     {
-      "name": "An Example Section"
-    },
-    {
-      "name": "An Example Subsection",
+      "name": "An Example Section",
       "menu": [
-        "An Example Section"
+        "Example Subection 1",
+        "Example Subection 2"
       ]
     }
   ]
