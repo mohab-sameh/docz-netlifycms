@@ -19,7 +19,10 @@
       "name": "An Example Section"
     },
     {
-      "name": "An Example Subsection"
+      "name": "An Example Subsection",
+      "menu": [
+        "An Example Section"
+      ]
     }
   ]
 }
