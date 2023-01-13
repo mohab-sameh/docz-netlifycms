@@ -8,6 +8,7 @@ init({
     load_config_file: true,
     media_folder: 'docs/images/uploads',
     public_folder: '/images/uploads',
+    publish_mode: 'editorial_workflow',
     collections: [
       {
         label: 'Docs',
